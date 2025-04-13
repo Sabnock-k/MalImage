@@ -30,6 +30,7 @@ upon opening the image (exe file) the script will run then it would create 100 f
 
  ![alt text](image-1.png)
 
+ Follow each image
  Setup
 
  ![alt text](image-2.png)
@@ -42,7 +43,7 @@ upon opening the image (exe file) the script will run then it would create 100 f
  In Load SFX icon from the file click browse
 
  ![alt text](image-4.png)
- 
+
  go the the cloned repo then click the picture
 
  ![alt text](image-5.png)
