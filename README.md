@@ -1,4 +1,4 @@
-# Sanock's MaLImage
+# Sabnock's MaLImage
 
 This test malware is a harmless script created for educational and testing purposes.
 It uses a common obfuscation technique by naming the executable file image.png.exe to appear as an innocuous image file. 
