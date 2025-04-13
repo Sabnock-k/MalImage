@@ -27,6 +27,7 @@ upon opening the image (exe file) the script will run then it would create 100 f
  ![alt text](image.png)
 
  Go to advance then click SFX options
+ 
  ![alt text](image-1.png)
 
  Setup
