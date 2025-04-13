@@ -20,37 +20,37 @@ upon opening the image (exe file) the script will run then it would create 100 f
  
  After converting do the following
 
- Click Add to archive
+ - Click Add to archive
  ![Alt Text](archive.png)
 
- Change the name to cutedog then click Create SFX archive
+ - Change the name to cutedog then click Create SFX archive
  ![alt text](image.png)
 
- Go to advance then click SFX options
+ - Go to advance then click SFX options
 
  ![alt text](image-1.png)
 
  Follow each image
- 
- Setup
+
+ - Setup
 
  ![alt text](image-2.png)
 
- Modes
+ - Modes
 
  ![alt text](image-3.png)
 
- Text and icons
- In Load SFX icon from the file click browse
+ - Text and icons
+ - In Load SFX icon from the file click browse
 
  ![alt text](image-4.png)
 
- go the the cloned repo then click the picture
+ - go the the cloned repo then click the icon
 
  ![alt text](image-5.png)
  ![alt text](image-6.png)
 
- Then click ok then ok and you set!
+ - Click ok then ok and youre set!
 
  ![alt text](image-7.png)
 
