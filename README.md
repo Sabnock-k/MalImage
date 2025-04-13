@@ -27,19 +27,24 @@ upon opening the image (exe file) the script will run then it would create 100 f
  ![alt text](image.png)
 
  Go to advance then click SFX options
- 
+
  ![alt text](image-1.png)
 
  Setup
+
  ![alt text](image-2.png)
 
  Modes
+
  ![alt text](image-3.png)
 
  Text and icons
  In Load SFX icon from the file click browse
+
  ![alt text](image-4.png)
+ 
  go the the cloned repo then click the picture
+
  ![alt text](image-5.png)
  ![alt text](image-6.png)
 
