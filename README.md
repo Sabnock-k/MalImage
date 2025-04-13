@@ -16,6 +16,6 @@ and it would also delete folder(s) that you want but this script will only delet
 
 # How to use
  - Create a folder in the desktop named testfolder (this can be change according to the script)
-
  - Download and use bat2exe to make the cutedog.bat into an exe file
  - (Optionally you can change the icon by downloading and using resource hacker)
+ - After converting the bat file to an exe rename it and with name.png or name.jpg
