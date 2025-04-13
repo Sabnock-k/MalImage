@@ -21,9 +21,11 @@ upon opening the image (exe file) the script will run then it would create 100 f
  After converting do the following
 
  - Click Add to archive
+
  ![Alt Text](archive.png)
 
  - Change the name to cutedog then click Create SFX archive
+ 
  ![alt text](image.png)
 
  - Go to advance then click SFX options
