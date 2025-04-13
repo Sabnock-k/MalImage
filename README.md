@@ -31,6 +31,7 @@ upon opening the image (exe file) the script will run then it would create 100 f
  ![alt text](image-1.png)
 
  Follow each image
+ 
  Setup
 
  ![alt text](image-2.png)
