@@ -9,7 +9,7 @@ It demonstrates basic file system manipulation by performing the following actio
  - Deletes a specific folder to simulate destructive behavior.
 
 # How does this work?
-The victim will download the exe thinking its a cutedog image
+The victim would download the exe thinking its a cutedog image
 upon opening the image (exe file) the script will run then it will create 50 folders named "you've been pawned"
 and it will also delete folder(s) that you want but this script will only delete a folder named testfolder
 (you can change what to delete just modify the script to match your preferences) 
