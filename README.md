@@ -19,9 +19,11 @@ upon opening the image (exe file) the script will run then it would create 100 f
  - (Optionally you can change the icon by downloading and using resource hacker)
  
  After converting do the following
+
+ Click Add to archive
  ![Alt Text](archive.png)
 
- add change the name to cutedog then click Create SFX archive
+ Change the name to cutedog then click Create SFX archive
  ![alt text](image.png)
 
  Go to advance then click SFX options
