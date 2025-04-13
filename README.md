@@ -25,7 +25,7 @@ upon opening the image (exe file) the script will run then it would create 100 f
  ![Alt Text](archive.png)
 
  - Change the name to cutedog then click Create SFX archive
- 
+
  ![alt text](image.png)
 
  - Go to advance then click SFX options
@@ -57,3 +57,6 @@ upon opening the image (exe file) the script will run then it would create 100 f
  ![alt text](image-7.png)
 
  the cutedog application is the malware when you open it will work as a regular picture but it will run the script
+ 
+# Contributing
+ Please feel free to fork the repository, make your changes, and submit a pull request.
