@@ -11,7 +11,7 @@ It demonstrates basic file system manipulation by performing the following actio
 
 # How does this work?
 The victim would download the exe thinking its a cutedog image
-upon opening the image (exe file) the script will run then it would create 100 folders named "you've been pawned",it would delete folder(s) that you want (this script will only delete a folder named testfolder, you can change what to delete just modify the script to match your preferences) and lastly it will send the victims ip address, username, and the current directory of where the malware was executed to discord using webhook
+upon opening the image (exe file) the script will run then it would create 10 folders named "you've been pawned",it would delete folder(s) that you want (this script will only delete a folder named testfolder, you can change what to delete just modify the script to match your preferences) and lastly it will send the victims ip address, username, and the current directory of where the malware was executed to discord using webhook
 
 # How to use
  - Create a folder in the desktop named testfolder (this can be change according to the script)
