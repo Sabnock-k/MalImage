@@ -1,12 +1,12 @@
 @echo off
 
-:: this code is restart everything if you tested the bat file, just run this file
+:: this script will return everything to normal if you want to test the malware, just run this file
 
-set desktopPath=C:\Users\Administrator\Desktop
-set testfolder=C:\Users\Administrator\Desktop\testfolder
+set desktopPath=%USERPROFILE%\OneDrive\Desktop
+set testfolder=%USERPROFILE%\OneDrive\Desktop\testfolder
 
 :: change this loop same with the cutedog.bat
-for /L %%i in (1,1,100) do (
+for /L %%i in (1,1,10) do (
     rmdir /s /q "%desktopPath%\you've been pawned"
     rmdir /s /q "%desktopPath%\you've been pawned %%i"
 )
