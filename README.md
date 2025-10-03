@@ -22,39 +22,39 @@ upon opening the image (exe file) the script will run then it would create 100 f
 
  - Click Add to archive
 
- ![Alt Text](archive.png)
+ ![Alt Text](/explaner/archive.png)
 
  - Change the name to cutedog then click Create SFX archive
 
- ![alt text](image.png)
+ ![alt text](/explaner/image.png)
 
  - Go to advance then click SFX options
 
- ![alt text](image-1.png)
+ ![alt text](/explaner/image-1.png)
 
  Follow each image
 
  - Setup
 
- ![alt text](image-2.png)
+ ![alt text](/explaner/image-2.png)
 
  - Modes
 
- ![alt text](image-3.png)
+ ![alt text](/explaner/image-3.png)
 
  - Text and icons
  - In Load SFX icon from the file click browse
 
- ![alt text](image-4.png)
+ ![alt text](/explaner/image-4.png)
 
  - go the the cloned repo then click the icon
 
- ![alt text](image-5.png)
- ![alt text](image-6.png)
+ ![alt text](/explaner/image-5.png)
+ ![alt text](/explaner/image-6.png)
 
  - Click ok then ok and youre set!
 
- ![alt text](image-7.png)
+ ![alt text](/explaner/image-7.png)
 
  the cutedog application is the malware when you open it will work as a regular picture but it will run the script
  
